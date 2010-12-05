@@ -6,5 +6,5 @@ zz
 aa
 void func(){
 	int a=2;
-	sblah(a);
+	sffblah(a);
 }
