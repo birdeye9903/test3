@@ -6,5 +6,5 @@ zz
 aa
 void func(){
 	int a=2;
-	blah(a);
+	dblah(a);
 }
