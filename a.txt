@@ -8,4 +8,8 @@ void func(){
 	int a=2;
 	dzzblah(a);
 }
+<<<<<<< Updated upstream
 sleep
+=======
+sdd
+>>>>>>> Stashed changes
