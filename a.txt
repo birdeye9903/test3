@@ -2,5 +2,9 @@ blah
 cool
 aaa
 test
-ff
+zz
 aa
+void func(){
+	int a=2;
+	blah(a);
+}
