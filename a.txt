@@ -6,6 +6,6 @@ zz
 aa
 void func(){
 	int a=2;
-	sffblah(a);
+	dzzblah(a);
 }
-aaa
+sleep
